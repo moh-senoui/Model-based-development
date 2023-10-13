@@ -1,0 +1,14 @@
+disp('1.car ; 2.')
+type = input('enter mode of transportaion :');
+switch cost
+         case car 
+        disp('your cost per mile = 15$');
+         case train 
+        disp('your cost per mile = 7$');
+         case bus 
+        disp('your cost per mile = 9$');
+         case airplane 
+        disp('your cost per mile = 35$');
+    otherwise 
+        disp('not availabe');
+end

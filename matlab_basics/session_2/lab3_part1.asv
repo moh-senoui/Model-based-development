@@ -1,0 +1,16 @@
+%using while loop to print even numbers
+num = 0 ;
+while num ~= 20
+    num = num + 2;
+    disp(num);
+end
+
+userinput = input('plz Enter num : ');
+while userinput ~=0
+    userinput = userinput * 1 ;
+    disp(userinput);
+end
+    userinput = userinput - 1;
+userinput=0
+
+
