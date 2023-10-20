@@ -1,0 +1,24 @@
+ In this lab (lab1 simulink basics)
+
+Part 2: The Product Block
+
+This block takes two or more input signals and multiply them.
+
+Part 3: The Gain Block
+
+This block takes input signal and multiply them to a constant factor.
+
+Part 4: The Sum Block
+
+This block takes two or more input signals and add/subtract them.
+
+Part 5: The Constant Block
+
+This block generate const signal.
+
+Part 6: The Display Block
+
+This block display result signal.
+
+
+
